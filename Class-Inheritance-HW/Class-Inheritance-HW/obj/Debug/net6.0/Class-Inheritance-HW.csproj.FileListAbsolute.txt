@@ -1,0 +1,15 @@
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.csproj.AssemblyReference.cache
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.AssemblyInfoInputs.cache
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.AssemblyInfo.cs
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/bin/Debug/net6.0/Class-Inheritance-HW
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/bin/Debug/net6.0/Class-Inheritance-HW.deps.json
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/bin/Debug/net6.0/Class-Inheritance-HW.runtimeconfig.json
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/bin/Debug/net6.0/Class-Inheritance-HW.dll
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/bin/Debug/net6.0/Class-Inheritance-HW.pdb
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.dll
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/refint/Class-Inheritance-HW.dll
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.pdb
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/Class-Inheritance-HW.genruntimeconfig.cache
+/Users/sh1riyev/Desktop/Class-Inheritance/Class-Inheritance-HW/Class-Inheritance-HW/obj/Debug/net6.0/ref/Class-Inheritance-HW.dll

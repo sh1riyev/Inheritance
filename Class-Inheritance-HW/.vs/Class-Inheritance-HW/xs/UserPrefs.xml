@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9107A7FC-67FC-4681-AA2F-24BD38769BB9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class-Inheritance-HW/Program.cs">
+    <Files>
+      <File FileName="Class-Inheritance-HW/Employee.cs" Line="14" Column="3" />
+      <File FileName="Class-Inheritance-HW/Program.cs" Line="64" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class-Inheritance-HW" expanded="True">
+            <Node name="Class-Inheritance-HW" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Class-Inheritance-HW PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

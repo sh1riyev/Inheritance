@@ -1,0 +1,15 @@
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/bin/Debug/net6.0/Class-Inheritance-Classwork
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/bin/Debug/net6.0/Class-Inheritance-Classwork.deps.json
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/bin/Debug/net6.0/Class-Inheritance-Classwork.runtimeconfig.json
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/bin/Debug/net6.0/Class-Inheritance-Classwork.dll
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/bin/Debug/net6.0/Class-Inheritance-Classwork.pdb
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.csproj.AssemblyReference.cache
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.AssemblyInfoInputs.cache
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.AssemblyInfo.cs
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.dll
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/refint/Class-Inheritance-Classwork.dll
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.pdb
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/Class-Inheritance-Classwork.genruntimeconfig.cache
+/Users/sh1riyev/Desktop/Class-Inheritance-Classwork/Class-Inheritance-Classwork/obj/Debug/net6.0/ref/Class-Inheritance-Classwork.dll
